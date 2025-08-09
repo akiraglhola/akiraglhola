@@ -20,7 +20,7 @@
 
 - Ingeniero informático especializado en ciencia de datos
 - Amante del aprendizaje continuo
-- Abierto a nuevas oportunidades. [currículum](https://drive.google.com/file/d/1qyEEVAx-8skhkmeRpR7KzxXZ5x8GRR66/view?usp=sharing)
+- Abierto a nuevas oportunidades. [currículum](https://drive.google.com/file/d/15TN5gOrf7XU0jjcTjXGPkmcuwGk52Al_/view?usp=sharing)
 
 
 <br><br>
