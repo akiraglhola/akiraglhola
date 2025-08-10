@@ -84,8 +84,6 @@
 
 <br>
 
-Espero que esto te sea útil para completar tu perfil de GitHub. ¡Buena suerte!
-
 </p>
 
 <br>
