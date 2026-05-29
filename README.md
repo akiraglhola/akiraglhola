@@ -58,7 +58,18 @@ Feature engineering (traffic ratios, temporal features, IP classification) → r
 
 ---
 
+<!-- Stats row -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akiraglhola&show_icons=true&hide_border=true&title_color=7c6af7&icon_color=3ecfcf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akiraglhola&layout=compact&hide_border=true&title_color=7c6af7&icon_color=3ecfcf&text_color=c9d1d9&bg_color=0d1117" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akiraglhola&layout=donut&hide_border=true&title_color=7c6af7&icon_color=3ecfcf&text_color=c9d1d9&bg_color=0d1117" width="280"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akiraglhola&theme=tokyonight&no-frame=true&column=6&margin-w=6&margin-h=6" width="720"/>
+</p>
+
+<!-- Activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akiraglhola&bg_color=0d1117&color=c9d1d9&line=7c6af7&point=3ecfcf&hide_border=true&area=true&area_color=7c6af7" width="720"/>
 </p>
